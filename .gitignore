@@ -1,0 +1,35 @@
+# Data folders
+data/
+datasets/
+raw/
+processed/
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# Output folders
+outputs/
+results/
+heatmaps/
+figures/
+metrics/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
